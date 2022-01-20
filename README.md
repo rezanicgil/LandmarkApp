@@ -1,0 +1,2 @@
+# LandmarkApp
+RecylerView ile listeleme.
